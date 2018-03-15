@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WebBrowser
+comment0.text=\r\n\r\n\ @author\ ericjbruno\r\n
+comment1.params=
+comment1.target=javafx.scene.layout.VBox\ getRoot()
+comment2.params=
+comment2.target=WebBrowser()
+comment3.params=observable\ oldValue\ newValue
+comment3.target=void\ changed(javafx.beans.value.ObservableValue,\ java.lang.String,\ java.lang.String)
+comment4.params=event
+comment4.target=void\ handle(javafx.event.ActionEvent)
+numComments=5
