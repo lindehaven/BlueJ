@@ -1,16 +1,18 @@
-# PROJECT TITLE:
-Hello World
+# Hello World
 
-# PURPOSE OF PROJECT:
+## Purpose
 To print "Hello world".
 
-# VERSION or DATE:
+## Date
 14 Mar 2018
 
-# HOW TO START THIS PROJECT:
-java -jar Hello.jar
+## How to start
+Right-click on the Hello class and "Run JavaFX Application"  
+or  
+Start from shell with `java -jar Hello.jar`  
 
-# AUTHORS:
+## Authors
 12 Mar 2018, Lars Lindehaven (lindehaven).
 
-# USER INSTRUCTIONS:
+## User Instructions
+Not needed.
